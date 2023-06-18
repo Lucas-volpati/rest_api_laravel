@@ -2,6 +2,8 @@
 
 # The Books list API
 
+#### <a href='https://app.swaggerhub.com/apis-docs/LUCASVOLPATI/api_restful/1.0.0#/Get%20Specified%20Book/get_book__id_'>Swagger Documentation</a>
+
 This API returns a book list to demonstrate how to make good API's
 
 Usage using docker:
