@@ -62,5 +62,5 @@ And now, you can do your's requests on Postman, or your favorite app.
 Make good use and good luck.
 ### Developer
 * [Lucas A. R. Volpati] | <lucas.volpati@outlook.com> - Developer of this API!
-* [phpMailer] - Lib to send Email
+* [Rest API] - The best library API
 
