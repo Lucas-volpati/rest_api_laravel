@@ -6,7 +6,9 @@
 
 This API returns a book list to demonstrate how to make good API's
 
-Usage using docker:
+You will need to install docker, in case you never used, you can visit the <a href='https://docs.docker.com/desktop/windows/wsl/'>Docker Desktop site</a> and see how to install and configure (WSL) on windows. 
+
+Usage:
 
 ```sh
 ./vendor/bin/sail up
