@@ -10,7 +10,7 @@
                 <a href="#email"><span class="white-text email">lucas.volpati@outlook.com</span></a>
             </div>
         </li>
-        <li><a href="https://github.com/Lucas-volpati/rest_api_laravel"><i class="fa-brands fa-github"></i>Repositório Oficial</a></li>
+        <li><a href="https://github.com/Lucas-volpati/rest_api_laravel"><i class="fa-brands fa-github"></i>Repositório Github</a></li>
         <li><a href="https://app.swaggerhub.com/apis-docs/LUCASVOLPATI/api_restful/1.0.0">Documentação (Swagger)</a></li>
         <li><div class="divider"></div></li>
         <li><a class="waves-effect" href="#!">Contato</a></li>
