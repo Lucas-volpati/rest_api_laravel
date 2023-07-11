@@ -56,7 +56,7 @@ http://localhost/api_restful/preparations
 ### 1 - /all_books/{limit}
 You can get all of books, with this endpoint:
 ```sh
-http://localhost/api_restful/all_books/{limit}
+http://localhost/api_restful/api/all_books/{limit}
 ```
 
 The variable $limit is the max numbers of books that you want.
@@ -65,12 +65,12 @@ The variable $limit is the max numbers of books that you want.
 With this endpoint you can get the book by your id number, by passing $id.
 
 ```sh
-http://localhost/api_restful/book/{id}
+http://localhost/api_restful/api/book/{id}
 ```
 And now, you can do your's requests on Postman, or your favorite app, but don't forget your token, you should put it on your header requisition, as bellow:
 ```sh
 JS
-fetch('https://localhost/all_books/10', {
+fetch('https://localhost/api/all_books/10', {
     method: 'GET',
     headers: {
         Authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c'
