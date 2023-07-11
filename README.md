@@ -53,7 +53,7 @@ http://localhost/api_restful/preparations
 ```
 
 ## Endpoints
-### 1 - /all_books/{limit}
+### 1 - /api/all_books/{limit}
 You can get all of books, with this endpoint:
 ```sh
 http://localhost/api_restful/api/all_books/{limit}
@@ -61,7 +61,7 @@ http://localhost/api_restful/api/all_books/{limit}
 
 The variable $limit is the max numbers of books that you want.
 
-### 2 - /book/{id}
+### 2 - /api/book/{id}
 With this endpoint you can get the book by your id number, by passing $id.
 
 ```sh
