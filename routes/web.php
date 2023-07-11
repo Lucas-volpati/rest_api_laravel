@@ -16,18 +16,6 @@ Route::controller(SiteController::class)->group(function() {
 
 });
 
-
-
-
-/*************************************************************************
- * API Controller
- **************************************************************************/
-// Route::controller(ApiController::class)->group(function() {
-//     Route::get('/all_books/{limit?}', 'getAllBooks');
-//     Route::get('/book/{id}', 'getBookById');
-//     Route::get('/get_users/', 'getUsers');
-// });
-
 /*************************************************************************
  * Preparing To Use Controller
  **************************************************************************/
